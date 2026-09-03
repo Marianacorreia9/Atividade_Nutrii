@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "data": "25/08/2026",
+        "paciente": "Alicia",
+        "peso": 56,
+        "altura": 1.65
+    },
+    {
+        "id": 2,
+        "data": "27/08/2026",
+        "paciente": "Hilary",
+        "peso": 67,
+        "altura": 1.67
+    }
+]
